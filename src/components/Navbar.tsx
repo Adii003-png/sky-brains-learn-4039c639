@@ -9,6 +9,7 @@ const navLinks = [
   { label: "Quiz", href: "#quiz" },
   { label: "Team", href: "#team" },
   { label: "Tech Stack", href: "#tech-stack" },
+  { label: "Contact", href: "#contact" },
 ];
 
 const Navbar = () => {
